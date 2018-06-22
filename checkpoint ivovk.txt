@@ -1,4 +1,4 @@
 1. Build, deploy, test, release 
 2. we can find bugs in early stages and fix them, we can show working software/product any time
 3. branch it is a kind of catalogue where we keep our code. each developer can have his own branch and work on his own code at the same time not spoiling Master branch
-4. this command switch you to the branch abracadabra
+4. this command switch you to the branch abracadabra (ot checkout file from previous commit)
