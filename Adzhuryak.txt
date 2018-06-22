@@ -1,0 +1,5 @@
+1.  Build, Deploy, Test, Rellase
+2.CI -members of the business team to work robot often(There is always a finished product of the latest series);
+CD- ready product at any time
+3.Creates to which we can turn and call
+4.Moves Commit on with the file
