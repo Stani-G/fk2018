@@ -1,0 +1,4 @@
+1. development, aplication test, integration test, acceptance test, production
+2. automated test and build of software after each devs commit
+3. it is line/pert in development process
+4. discard changes in abracadabra.txt
