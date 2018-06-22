@@ -1,0 +1,4 @@
+1. Release,build,test, deploy
+2. Quick bug fixes, faster feature delivery,risk reduction,change course quickly,team morade,bette development processes.
+3.  As you initially make commits, you're given a master branch that points to the last commit you made. Every time you commit, it moves forward automatically.
+4. transition to file
