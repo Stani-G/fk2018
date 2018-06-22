@@ -1,0 +1,4 @@
+1)Run automated unit test,code coverage,built artifact,set-up test'fixture', provision and deploy,run automates functional test, publish report.
+2)Better development processes,quick fixes of bugs, faster feature delivery, posibility to change course in any time,team moracle,automatization.
+3)its a main directory/an independent line
+4)restore file abracadabra
