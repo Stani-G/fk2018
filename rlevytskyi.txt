@@ -1,0 +1,8 @@
+1. Build, deploy, stage, release
+2. 
+- Quick bug fixes;
+- Faster feature;
+- Risk reduction;
+- Change course 
+3. Branch - is a new series of commits, that are independent from main branch.
+4. Switches to abracadabra.txt;
