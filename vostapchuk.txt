@@ -1,0 +1,13 @@
+1. 1) Dev
+2) application testing
+3) integration testing
+4) acceptance testing
+5) production
+2. Quick bug fixes
+Faster feature delivery
+Team morale
+Change course quickly
+Risk reduction
+3. A branch represents an independent line of development. 
+Branches serve as an abstraction for the edit/stage/commit process.
+4. Restore file abracadabra.txt

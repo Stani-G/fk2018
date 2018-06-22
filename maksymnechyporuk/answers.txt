@@ -1,0 +1,14 @@
+CI/CD steps:
+Development
+application test
+integration test
+acceptance test
+deploy to production with auto and manual decision
+
+
+Benefits of CI/CD - automated build and test software every time devs make a commit
+
+Branch in git is a line of development of a project
+
+
+git checkout filename.txt - discard/revert/rollback changes of file
