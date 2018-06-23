@@ -1,0 +1,20 @@
+
+Test case ID	 0001AB
+Summary	 User deleting shipping address
+Priority	 P1
+Feature Name	 Address Book
+Test data	 login: test_form1@gmail.com
+ password: 12345
+Preconditions
+1.	Logged in with user credentials;
+2.	Navigates to on My Account Landing Page.
+Steps
+1.	Clicks on Address Book button.
+2.	Clicks on Delete button next to the existing address;
+3.	Clicks the ‘Yes’ button when system asks to confirm whether or not to remove that address from account;
+4.	Confirms the deletion of the address.
+Expect results
+1.	System displays confirmation message that Address Book entry was deleted;
+2.	System returns to previous View of the My Account Address book screen with the the deleted entry no longer displaying.
+Postconditions
+Edit a shipping address and save it to account.
